@@ -7,4 +7,4 @@ Rules for submitting:
 2. Name the file something distinct and meaningful.
 3. If you have multiple files for a single submission, create a subfolder with a distinct and meaningful name.
 
-# {Suggested Reading](https://en.wikipedia.org/wiki/Tag_system#Cyclic_tag_systems)
+# [Suggested Reading](https://en.wikipedia.org/wiki/Tag_system#Cyclic_tag_systems)
