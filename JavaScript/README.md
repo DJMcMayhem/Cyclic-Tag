@@ -1,5 +1,5 @@
 # JavaScript
-JavaScript is a function, primarily web-based language.
+JavaScript is a functional, primarily web-based language.
 
 ## Submissions
 
