@@ -1,0 +1,18 @@
+v               Reng v.4 Cyclic Tag System
+v                    By Conor O'Brien
+v      https://jsfiddle.net/Conor_OBrien/avnLdwtq/50
+v Given input like this: 
+v "initial word" "/" "rule 1" "/" ... "/" "rule 2"
+v or "initial word/rule 1/rule 2/rule 3"; prints each word
+v [PART I: parse initial word]
+v
+> i"/"- v [PART II: save other words internally]
+^ -1 v? / 0#x1#y 0[ > isv"/"- ?!v> $ x"SAVE"4& v
+     >$ ^           ^    -1     < .D vqy x#+1x <
+                        >$ 0#y   ^   >0#z]4ø [jump 4 lines ahead]
+[PART III: cyclic tags]
+>   r    qv r zx,"REST"4&] v
+^vz#+1z r < r              <
+ > ¤l2%[" "{:o}z*$r>nlqvv
+^              ~ql   ö]<
+                   ^    <
